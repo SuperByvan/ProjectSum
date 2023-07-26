@@ -8,11 +8,19 @@
 
     <ItemGroup>
       <Folder Include="Commands\" />
-      <Folder Include="Common\Behaviours\" />
-      <Folder Include="Common\Exceptions\" />
-      <Folder Include="Common\Interfaces\" />
-      <Folder Include="Common\Models\Bl\" />
-      <Folder Include="Queries\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentValidation" Version="11.6.0" />
+      <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.6.0" />
+      <PackageReference Include="Mapster" Version="7.3.0" />
+      <PackageReference Include="Mapster.Core" Version="1.2.0" />
+      <PackageReference Include="Mapster.DependencyInjection" Version="1.0.0" />
+      <PackageReference Include="MediatR" Version="10.0.1" />
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+      <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+      <PackageReference Include="Microsoft.Extensions.Http" Version="7.0.0" />
+      <PackageReference Include="Microsoft.Extensions.Logging" Version="7.0.0" />
     </ItemGroup>
 
 </Project>
