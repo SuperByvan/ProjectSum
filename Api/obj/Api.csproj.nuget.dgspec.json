@@ -77,6 +77,10 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -178,6 +182,10 @@
             "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.4, )"
             }
           },
           "imports": [
@@ -265,6 +273,10 @@
             "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.4, )"
             }
           },
           "imports": [
@@ -359,6 +371,10 @@
             "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.4, )"
             },
             "SolrNet.Core": {
               "target": "Package",

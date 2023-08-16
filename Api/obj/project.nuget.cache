@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z7RNKIV0HB2n0IMfgmXtmh+J7vfCcsZ5kJiu8dN2AHSAe6KCPwvSqQOVzU2x3IejoCZWymOyxPV1Ao8aAFXt+g==",
+  "dgSpecHash": "EIfAl811kQWn7NtMaxkxKMoEN+470LlayJiJb3n/7/w/0Te8TtgvhzP4rlRiBhZNS7Qs12N2ng4OBHDOtQ49bg==",
   "success": true,
   "projectFilePath": "/Users/yvantran/Documents/Projets/ProjectSum/Api/Api.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,7 @@
     "/Users/yvantran/.nuget/packages/microsoft.win32.primitives/4.3.0/microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "/Users/yvantran/.nuget/packages/netstandard.library/1.6.1/netstandard.library.1.6.1.nupkg.sha512",
     "/Users/yvantran/.nuget/packages/newtonsoft.json/10.0.3/newtonsoft.json.10.0.3.nupkg.sha512",
+    "/Users/yvantran/.nuget/packages/polly/7.2.4/polly.7.2.4.nupkg.sha512",
     "/Users/yvantran/.nuget/packages/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/yvantran/.nuget/packages/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/yvantran/.nuget/packages/runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
